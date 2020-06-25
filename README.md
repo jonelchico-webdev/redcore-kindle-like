@@ -1,6 +1,6 @@
 # redcore-kindle-like
 
-<!-- For Book Server -->
+## -- For Book Server --
 
 ### `npm install`
 
@@ -10,7 +10,7 @@ After the local Server is up
 Run
 ### `npm run tunnel`
 
-<!-- For Kindle-Like Folder -->
+## -- For Kindle-Like Folder --
 
 ### `npm install`
 
